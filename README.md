@@ -1,7 +1,7 @@
-# restApiPython
+# API REST
 
 ## Resumen 
-Estructura de una APIRES en python con un etorno de desarrollo basado en flask y en virtualenv.
+Estructura de una API REST en python con un etorno de desarrollo basado en flask y virtualenv.
 
 ## Instalacion
 tener instalado [python](https://www.python.org/) 2.7.x o 3.x.x 
